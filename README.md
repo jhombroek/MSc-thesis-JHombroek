@@ -9,7 +9,7 @@
 ## License
 
 ## Contact Information
-Authors: J. Hombroek & Dr. ir. I. M. Ilie
+Authors: J. Hombroek & Dr. ir. I. M. Ilie \n
 E-mail: jonathan.hombroek@student.uva.nl
 
 ## Acknowledgments
