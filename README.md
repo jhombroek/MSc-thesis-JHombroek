@@ -1,5 +1,4 @@
 # Machine Learning Approach To Generating And Predicting Peptide Based Inhibitors
-By J. Hombroek & Dr. ir. I. M. Ilie
 
 ## Repository Structure
 
@@ -10,6 +9,8 @@ By J. Hombroek & Dr. ir. I. M. Ilie
 ## License
 
 ## Contact Information
+Authors: J. Hombroek & Dr. ir. I. M. Ilie
+E-mail: jonathan.hombroek@student.uva.nl
 
 ## Acknowledgments
 
